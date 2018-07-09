@@ -1,0 +1,2 @@
+c:\users\ravindra\documents\visual studio 2015\Projects\CortanaUWPDemo\CortanaUWPDemo\CortanaUWPDemo.csproj;x86
+c:\users\ravindra\documents\visual studio 2015\Projects\CortanaUWPDemo\CortanaUWPDemoBgTask\CortanaUWPDemoBgTask.csproj;x86

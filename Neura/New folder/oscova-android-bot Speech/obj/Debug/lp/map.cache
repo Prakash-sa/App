@@ -1,0 +1,17 @@
+Jint
+Newtonsoft.Json
+Syn.Bot
+Syn.Log
+Syn.Neuro
+Syn.VA
+Syn.WordNet
+System.Runtime
+System.Reflection.Extensions
+System.Resources.ResourceManager
+System.Diagnostics.Tools
+System.Runtime.Serialization.Json
+PCLStorage.Abstractions
+PCLStorage
+Xamarin.Cognitive.BingSpeech
+Plugin.TextToSpeech.Abstractions
+Plugin.TextToSpeech

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SimlProject>
+  <Profile>Classic</Profile>
+  <Name>Bot</Name>
+  <Directory>Neura</Directory>
+  <BotName>Neura</BotName>
+  <Personality>Female</Personality>
+  <Author>Prakash saini</Author>
+  <Description>this is the virtual assistant</Description>
+  <Date>18-03-26 12:06:22.916</Date>
+  <Notes></Notes>
+</SimlProject>

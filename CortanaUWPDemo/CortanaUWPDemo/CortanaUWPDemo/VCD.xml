@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+
+  <!--For English US language-->
+  <CommandSet xml:lang="en-us" Name="examplevcd">
+    <AppName>Assistant</AppName>
+    <Example>Ask your query to assistant regarding travels</Example>
+    <Command Name="YourKeyword">
+      <Example>I want to travel near areas</Example>
+      <ListenFor>{UserCommand}</ListenFor>
+      <Feedback>In progress...</Feedback>
+      <VoiceCommandService Target="CortanaBackgroundTask"/>
+    </Command>
+    <PhraseTopic Label="UserCommand" Scenario="Natural Language">
+    </PhraseTopic>
+  </CommandSet>
+
+  <!--For English-India Language-->
+  <CommandSet xml:lang="en-in" Name="examplevcd">
+    <AppName>Assistant</AppName>
+    <Example>Ask your query to assistant regarding travels</Example>
+    <Command Name="YourKeyword">
+      <Example>I want to travel near areas</Example>
+      <ListenFor>{UserCommand}</ListenFor>
+      <Feedback>In progress...</Feedback>
+      <VoiceCommandService Target="CortanaBackgroundTask"/>
+    </Command>
+    <PhraseTopic Label="UserCommand" Scenario="Natural Language">
+    </PhraseTopic>
+  </CommandSet>
+
+</VoiceCommands>

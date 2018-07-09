@@ -1,0 +1,174 @@
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\OscovaAndroidBot.dll
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\OscovaAndroidBot.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\OscovaAndroidBot.OscovaAndroidBot.apk
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\OscovaAndroidBot.OscovaAndroidBot-Signed.apk
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Syn.Bot.xml
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\OscovaAndroidBot.csprojResolveAssemblyReference.cache
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\OscovaAndroidBot.csproj.CoreCompileInputs.cache
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\OscovaAndroidBot.csproj.CopyComplete
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\OscovaAndroidBot.dll
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\OscovaAndroidBot.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\bin\OscovaAndroidBot.OscovaAndroidBot.apk
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\res\layout\main.xml
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\res\values\strings.xml
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\res\drawable\icon.png
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\R.cs.flag
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\uploadflags.txt
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\mscorlib.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\OscovaAndroidBot.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Core.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Runtime.Serialization.Xml.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Xml.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Mono.Android.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\mscorlib.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Core.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Xml.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Net.Http.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Mono.Security.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\System.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\linksrc\OscovaAndroidBot.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\OscovaAndroidBot.dll.mdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\Microsoft.CSharp.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\System.Core.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\System.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Jint.dll
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Syn.Bot.dll
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Syn.Log.dll
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Syn.Neuro.dll
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Syn.VA.dll
+C:\Users\Prakash\Downloads\syn-bot-samples-master\oscova-android-bot\bin\Debug\Syn.WordNet.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\OscovaAndroidBot.csprojResolveAssemblyReference.cache
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\OscovaAndroidBot.csproj.CoreCompileInputs.cache
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\OscovaAndroidBot.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\OscovaAndroidBot.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\OscovaAndroidBot.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\OscovaAndroidBot.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\OscovaAndroidBot.OscovaAndroidBot.apk
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\OscovaAndroidBot.OscovaAndroidBot-Signed.apk
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\PCLStorage.Abstractions.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\PCLStorage.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Plugin.TextToSpeech.Abstractions.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Plugin.TextToSpeech.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Xamarin.Cognitive.BingSpeech.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\PCLStorage.xml
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\PCLStorage.Abstractions.xml
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Plugin.TextToSpeech.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Plugin.TextToSpeech.xml
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Syn.Bot.xml
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Xamarin.Cognitive.BingSpeech.xml
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\OscovaAndroidBot.csproj.CopyComplete
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\bin\OscovaAndroidBot.OscovaAndroidBot.apk
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\res\layout\main.xml
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\res\values\strings.xml
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\res\drawable\icon.png
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\R.cs.flag
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\uploadflags.txt
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Mono.Android.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Mono.Security.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\mscorlib.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Core.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Net.Http.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Xml.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\mscorlib.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\OscovaAndroidBot.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Core.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Runtime.Serialization.Xml.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Xml.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\OscovaAndroidBot.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\Microsoft.CSharp.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\System.Core.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\System.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\OscovaAndroidBot.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\System.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Plugin.TextToSpeech.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\Plugin.TextToSpeech.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\res\drawable\images.png
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Jint.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Syn.Bot.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Syn.Log.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Syn.Neuro.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Syn.VA.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\Syn.WordNet.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\bin\Debug\OscovaAndroidBot.dll
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\OscovaAndroidBot.dll.mdb
+C:\Users\Prakash\source\repos\oscova-android-bot Speech\obj\Debug\linksrc\Plugin.TextToSpeech.dll.mdb
